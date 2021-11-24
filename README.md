@@ -1,3 +1,3 @@
-#Projeto com JS da DIO
+# Projeto com JS da DIO
 
-##Criando jogo Genius
+## Criando jogo Genius
