@@ -1,4 +1,4 @@
-## **Genius feito com JS 🕹**
+# **Genius feito com JS 🕹**
 
 ## Primeiro projeto executado pelo curso da DIO
 
